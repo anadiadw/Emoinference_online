@@ -1,2 +1,2 @@
 # Emoinference_online
- Initian emoinference tasks that were conducted online
+ Initial emoinference tasks that were conducted online
